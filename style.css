@@ -1,8 +1,100 @@
 
-/*body {
-    font-family: Arial, sans-serif;
+body {
+    background-color: #FFF5F7;
+    color: #6B4A52;
 }
 
+/* Navbar */
+.navbar {
+    background-color: #FADCE2 !important;
+}
+
+.navbar-brand,
+.nav-link {
+    color: #8B5E67 !important;
+}
+
+.nav-link:hover {
+    color: #C98C99 !important;
+}
+
+/* Título principal */
 .titulo-principal {
-    font-weight: bold;
-}*/
+    color: #000000;
+}
+
+/* Textos */
+p {
+    color: #765962;
+}
+
+/* Botão */
+.btn-primary {
+    background-color: #E9AEBB;
+    border-color: #E9AEBB;
+    color: #FFFFFF;
+}
+
+.btn-primary:hover {
+    background-color: #D995A4;
+    border-color: #D995A4;
+}
+
+/* Títulos das seções */
+h2 {
+    color: #020202;
+}
+
+h3 {
+    color: #070707;
+}
+
+/* Cards */
+.card {
+    background-color: #FFF0F3;
+    border: 1px solid #F3C6CF;
+}
+
+.card-body {
+    background-color: #FFF0F3;
+}
+
+.card-text {
+    color: #765962;
+}
+
+/* Caixa de dica */
+.alert-info {
+    background-color: #FCE4E9;
+    border-color: #F3C6CF;
+    color: #765962;
+}
+
+.alert-info h2 {
+    color: #C78391;
+}
+
+/* Rodapé */
+footer {
+    background-color: #FADCE2 !important;
+    color: #8B5E67;
+}
+
+footer p {
+    color: #8B5E67;
+}
+
+/* Alerta - Dica importante */
+.alert-success {
+    background-color: #FCE4E9;
+    border-color: #F3C6CF;
+    color: #765962;
+}
+
+.alert-success h2 {
+    color: #C78391;
+}
+
+.alert-success p {
+    color: #765962;
+}
