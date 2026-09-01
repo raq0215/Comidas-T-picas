@@ -98,3 +98,13 @@ footer p {
 .alert-success p {
     color: #765962;
 }
+
+.navbar-personalizada {
+    background-image: 
+        linear-gradient(rgba(248, 223, 228, 0.88), rgba(250, 220, 226, 0.88)),
+        url("Bolosouzaleao.jpg");
+
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
